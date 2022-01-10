@@ -23,9 +23,7 @@ Talk to me about
 
 
 ## 📈 Github Stats
-<a href="https://github.com/Furkan-Gulsen/Furkan-Gulsen">
+<a href="https://github.com/AdonaiVera/AdonaiVera">
  <img alt="Adonai Vera Github Stats" src="https://github-readme-stats.vercel.app/api/?username=adonaivera&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </a>
-<a href="https://github.com/Furkan-Gulsen/Furkan-Gulsen">
- <img alt="Adonai Vera Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adonaivera&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
- </a>
+
