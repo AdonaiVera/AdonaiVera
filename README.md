@@ -7,8 +7,15 @@
  
 I am Adonai Vera 🧔
 
-I'm Adonaí Vera, a Machine Learning Engineer with 5 years of experience in the creation of computer vision models, machine learning algorithms, testing and deploying models in production using tools like TensorFlow, Docker, OpenCV, Git, Kubernetes, and more. 🚀...
-I have been a software developer, AI developer, AI Leader, and CTO in different companies which has given me a vision of creating AI products with a customer focus 🌎 Besides, I’m one of the 10 TensorFlow certified Developers for Google in Colombia, author of courses as “Curso Profesional de Redes neuronal con TensorFlow”, and “Curso Profesional de computer vision con TensorFlow” in Platzi and winner of the hackathon Covid19 and Innovate2019 with Ecopetrol Colombia 🌟
+I'm a Machine Learning Engineer with 5 years of experience in the creation of computer vision
+models, machine learning algorithms, testing and deploying models in production using tools 
+like TensorFlow, Docker, OpenCV, Git, Kubernetes, and more. 🚀...
+I have been a software developer, AI developer, AI Leader, and CTO in different companies 
+which has given me a vision of creating AI products with a customer focus 🌎 Besides, I’m 
+one of the 10 TensorFlow certified Developers for Google in Colombia, author of courses as 
+“Curso Profesional de Redes neuronal con TensorFlow”, and “Curso Profesional de computer 
+vision con TensorFlow” in Platzi and winner of the hackathon Covid19 and Innovate2019 with 
+Ecopetrol Colombia 🌟
 
 ## 👯 Communities
 - TensorFlow Community Colombia - Core Team (2021-♾)
