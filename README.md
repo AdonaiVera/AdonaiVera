@@ -1,4 +1,4 @@
-<h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> 🚀
 
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/AdonaiVera) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/adonai-vera/) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adonai.vera@gmail.com)
@@ -9,11 +9,6 @@ I'm a Machine Learning Engineer with 5 years of experience in the creation of co
 I have been a software developer, AI developer, AI Leader, and CTO in different companies which has given me a vision of creating AI products with a customer focus 🌎 Besides, I’m one of the 10 TensorFlow certified Developers for Google in Colombia, author of courses as  “Curso Profesional de Redes neuronal con TensorFlow”, and “Curso Profesional de computer  vision con TensorFlow” in Platzi and winner of the hackathon Covid19 and Innovate2019 with Ecopetrol Colombia 🌟
 
 🦄 **Fun facts:** I love doing extreme challenges. I do kickboxing, skydiving, diving, triathlons, rides on Bikes between cities, etc. To train my mind and my body to don't have excuses 👨‍💻🚀 
-
-
-I am a skydiver, diver, triathlete,
-
-He has cycled from Melbourne to Sydney.
 
 ## 👯 Communities
 - TensorFlow Community Colombia - Core Team (2021-♾)
